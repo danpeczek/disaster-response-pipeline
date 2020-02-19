@@ -4,9 +4,6 @@ data/csv/*
 # db extension
 *.db
 
-# Pickle extension
-*.pkl
-
 Data_Understanding.ipynb
 
 # Byte-compiled / optimized / DLL files
