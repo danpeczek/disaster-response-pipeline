@@ -1,0 +1,5 @@
+message,original,c,related,ego,ry
+Text (123) Text,(123) Text (123),TYPE,1,0,1
+Text2 (456) Text,(456) Text2 (456),TYPE2,0,1,1
+Text3 (678) Text,(678) Text3 (678),TYPE2,1,0,0
+Text4 (912) Text,(912) Text4 (912),TYPE,0,1,0

@@ -1,0 +1,6 @@
+id,message,original,c
+1,Text (123) Text,(123) Text (123),TYPE,
+2,Text2 (456) Text,(456) Text2 (456),TYPE2
+3,Text3 (678) Text,(678) Text3 (678),TYPE2
+4,Text4 (912) Text,(912) Text4 (912),TYPE
+5,Text4 (912) Text,(912) Text4 (345),TYPE
